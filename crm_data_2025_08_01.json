@@ -1,0 +1,1875 @@
+[
+  {
+    "transaction_timestamp": "2025-07-09T14:05:29Z",
+    "transaction_id": "INV-20250709-058",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Card",
+    "gross_amount": 3693,
+    "cgst": 184.65,
+    "sgst": 184.65,
+    "net_amount": 3323.7,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST524",
+      "customer_name": "Customer 58",
+      "customer_contact_number": "9706589722",
+      "customer_email": "cust58@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 514,
+        "quantity": 5,
+        "gross_amount": 2570
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 1123,
+        "quantity": 1,
+        "gross_amount": 1123
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-08T22:41:04Z",
+    "transaction_id": "INV-20250708-059",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 6200,
+    "cgst": 310.0,
+    "sgst": 310.0,
+    "net_amount": 5580.0,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST809",
+      "customer_name": "Customer 59",
+      "customer_contact_number": "9766163521",
+      "customer_email": "cust59@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 518,
+        "quantity": 4,
+        "gross_amount": 2072
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 1032,
+        "quantity": 4,
+        "gross_amount": 4128
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-06T09:58:19Z",
+    "transaction_id": "INV-20250706-060",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "UPI",
+    "gross_amount": 4886,
+    "cgst": 244.3,
+    "sgst": 244.3,
+    "net_amount": 4397.4,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST311",
+      "customer_name": "Customer 60",
+      "customer_contact_number": "9969887092",
+      "customer_email": "cust60@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 881,
+        "quantity": 4,
+        "gross_amount": 3524
+      },
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 454,
+        "quantity": 3,
+        "gross_amount": 1362
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-21T20:19:39Z",
+    "transaction_id": "INV-20250721-061",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Wallet",
+    "gross_amount": 8458,
+    "cgst": 422.9,
+    "sgst": 422.9,
+    "net_amount": 7612.2,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST342",
+      "customer_name": "Customer 61",
+      "customer_contact_number": "9233087857",
+      "customer_email": "cust61@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 534,
+        "quantity": 3,
+        "gross_amount": 1602
+      },
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 1032,
+        "quantity": 2,
+        "gross_amount": 2064
+      },
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 1198,
+        "quantity": 4,
+        "gross_amount": 4792
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-15T13:48:09Z",
+    "transaction_id": "INV-20250715-062",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Cash",
+    "gross_amount": 2186,
+    "cgst": 109.3,
+    "sgst": 109.3,
+    "net_amount": 1967.4,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST474",
+      "customer_name": "Customer 62",
+      "customer_contact_number": "9027078780",
+      "customer_email": "cust62@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 1093,
+        "quantity": 2,
+        "gross_amount": 2186
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-01T14:07:32Z",
+    "transaction_id": "INV-20250701-063",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Card",
+    "gross_amount": 1188,
+    "cgst": 59.4,
+    "sgst": 59.4,
+    "net_amount": 1069.2,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST684",
+      "customer_name": "Customer 63",
+      "customer_contact_number": "9320508921",
+      "customer_email": "cust63@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 594,
+        "quantity": 2,
+        "gross_amount": 1188
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-14T06:14:45Z",
+    "transaction_id": "INV-20250714-064",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Card",
+    "gross_amount": 7082,
+    "cgst": 354.1,
+    "sgst": 354.1,
+    "net_amount": 6373.8,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST249",
+      "customer_name": "Customer 64",
+      "customer_contact_number": "9389957984",
+      "customer_email": "cust64@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 556,
+        "quantity": 3,
+        "gross_amount": 1668
+      },
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 1022,
+        "quantity": 5,
+        "gross_amount": 5110
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 304,
+        "quantity": 1,
+        "gross_amount": 304
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-23T10:37:56Z",
+    "transaction_id": "INV-20250723-065",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Cash",
+    "gross_amount": 5451,
+    "cgst": 272.55,
+    "sgst": 272.55,
+    "net_amount": 4905.9,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST582",
+      "customer_name": "Customer 65",
+      "customer_contact_number": "9396502606",
+      "customer_email": "cust65@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 750,
+        "quantity": 3,
+        "gross_amount": 2250
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 786,
+        "quantity": 1,
+        "gross_amount": 786
+      },
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 483,
+        "quantity": 5,
+        "gross_amount": 2415
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-13T12:58:33Z",
+    "transaction_id": "INV-20250713-066",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Card",
+    "gross_amount": 5820,
+    "cgst": 291.0,
+    "sgst": 291.0,
+    "net_amount": 5238.0,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST585",
+      "customer_name": "Customer 66",
+      "customer_contact_number": "9835002273",
+      "customer_email": "cust66@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 940,
+        "quantity": 4,
+        "gross_amount": 3760
+      },
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 515,
+        "quantity": 4,
+        "gross_amount": 2060
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-20T01:54:23Z",
+    "transaction_id": "INV-20250720-067",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Card",
+    "gross_amount": 2078,
+    "cgst": 103.9,
+    "sgst": 103.9,
+    "net_amount": 1870.2,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST426",
+      "customer_name": "Customer 67",
+      "customer_contact_number": "9938400794",
+      "customer_email": "cust67@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 1039,
+        "quantity": 2,
+        "gross_amount": 2078
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-16T01:42:10Z",
+    "transaction_id": "INV-20250716-068",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 5598,
+    "cgst": 279.9,
+    "sgst": 279.9,
+    "net_amount": 5038.2,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST194",
+      "customer_name": "Customer 68",
+      "customer_contact_number": "9130815449",
+      "customer_email": "cust68@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 377,
+        "quantity": 3,
+        "gross_amount": 1131
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 1181,
+        "quantity": 3,
+        "gross_amount": 3543
+      },
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 308,
+        "quantity": 3,
+        "gross_amount": 924
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-21T18:42:57Z",
+    "transaction_id": "INV-20250721-069",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Card",
+    "gross_amount": 3405,
+    "cgst": 170.25,
+    "sgst": 170.25,
+    "net_amount": 3064.5,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST190",
+      "customer_name": "Customer 69",
+      "customer_contact_number": "9571466288",
+      "customer_email": "cust69@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 1135,
+        "quantity": 3,
+        "gross_amount": 3405
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-13T11:18:41Z",
+    "transaction_id": "INV-20250713-070",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Wallet",
+    "gross_amount": 9735,
+    "cgst": 486.75,
+    "sgst": 486.75,
+    "net_amount": 8761.5,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST543",
+      "customer_name": "Customer 70",
+      "customer_contact_number": "9770601432",
+      "customer_email": "cust70@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 856,
+        "quantity": 4,
+        "gross_amount": 3424
+      },
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 468,
+        "quantity": 2,
+        "gross_amount": 936
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 1075,
+        "quantity": 5,
+        "gross_amount": 5375
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-18T11:53:44Z",
+    "transaction_id": "INV-20250718-071",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Wallet",
+    "gross_amount": 2646,
+    "cgst": 132.3,
+    "sgst": 132.3,
+    "net_amount": 2381.4,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST470",
+      "customer_name": "Customer 71",
+      "customer_contact_number": "9635734991",
+      "customer_email": "cust71@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 882,
+        "quantity": 3,
+        "gross_amount": 2646
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-06T09:18:38Z",
+    "transaction_id": "INV-20250706-072",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "UPI",
+    "gross_amount": 3518,
+    "cgst": 175.9,
+    "sgst": 175.9,
+    "net_amount": 3166.2,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST872",
+      "customer_name": "Customer 72",
+      "customer_contact_number": "9760463819",
+      "customer_email": "cust72@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 712,
+        "quantity": 4,
+        "gross_amount": 2848
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 335,
+        "quantity": 2,
+        "gross_amount": 670
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-10T00:09:20Z",
+    "transaction_id": "INV-20250710-073",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Card",
+    "gross_amount": 1516,
+    "cgst": 75.8,
+    "sgst": 75.8,
+    "net_amount": 1364.4,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST660",
+      "customer_name": "Customer 73",
+      "customer_contact_number": "9490560970",
+      "customer_email": "cust73@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 758,
+        "quantity": 2,
+        "gross_amount": 1516
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-16T03:48:09Z",
+    "transaction_id": "INV-20250716-074",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "UPI",
+    "gross_amount": 1956,
+    "cgst": 97.8,
+    "sgst": 97.8,
+    "net_amount": 1760.4,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST258",
+      "customer_name": "Customer 74",
+      "customer_contact_number": "9560329727",
+      "customer_email": "cust74@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 652,
+        "quantity": 3,
+        "gross_amount": 1956
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-19T00:45:52Z",
+    "transaction_id": "INV-20250719-075",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Wallet",
+    "gross_amount": 5951,
+    "cgst": 297.55,
+    "sgst": 297.55,
+    "net_amount": 5355.9,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST124",
+      "customer_name": "Customer 75",
+      "customer_contact_number": "9649611812",
+      "customer_email": "cust75@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 853,
+        "quantity": 3,
+        "gross_amount": 2559
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 426,
+        "quantity": 4,
+        "gross_amount": 1704
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 844,
+        "quantity": 2,
+        "gross_amount": 1688
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-06T08:51:10Z",
+    "transaction_id": "INV-20250706-076",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 1284,
+    "cgst": 64.2,
+    "sgst": 64.2,
+    "net_amount": 1155.6,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST877",
+      "customer_name": "Customer 76",
+      "customer_contact_number": "9631973909",
+      "customer_email": "cust76@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 475,
+        "quantity": 2,
+        "gross_amount": 950
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 334,
+        "quantity": 1,
+        "gross_amount": 334
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-01T14:11:58Z",
+    "transaction_id": "INV-20250701-077",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 3113,
+    "cgst": 155.65,
+    "sgst": 155.65,
+    "net_amount": 2801.7,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST861",
+      "customer_name": "Customer 77",
+      "customer_contact_number": "9572635201",
+      "customer_email": "cust77@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 969,
+        "quantity": 1,
+        "gross_amount": 969
+      },
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 578,
+        "quantity": 2,
+        "gross_amount": 1156
+      },
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 988,
+        "quantity": 1,
+        "gross_amount": 988
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-17T08:39:04Z",
+    "transaction_id": "INV-20250717-078",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Cash",
+    "gross_amount": 9112,
+    "cgst": 455.6,
+    "sgst": 455.6,
+    "net_amount": 8200.8,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST165",
+      "customer_name": "Customer 78",
+      "customer_contact_number": "9115214378",
+      "customer_email": "cust78@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 1187,
+        "quantity": 3,
+        "gross_amount": 3561
+      },
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 897,
+        "quantity": 5,
+        "gross_amount": 4485
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 1066,
+        "quantity": 1,
+        "gross_amount": 1066
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-22T22:27:01Z",
+    "transaction_id": "INV-20250722-079",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 7909,
+    "cgst": 395.45,
+    "sgst": 395.45,
+    "net_amount": 7118.1,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST795",
+      "customer_name": "Customer 79",
+      "customer_contact_number": "9279298077",
+      "customer_email": "cust79@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 1007,
+        "quantity": 5,
+        "gross_amount": 5035
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 958,
+        "quantity": 3,
+        "gross_amount": 2874
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-01T05:10:16Z",
+    "transaction_id": "INV-20250701-080",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "UPI",
+    "gross_amount": 1092,
+    "cgst": 54.6,
+    "sgst": 54.6,
+    "net_amount": 982.8,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST333",
+      "customer_name": "Customer 80",
+      "customer_contact_number": "9934880870",
+      "customer_email": "cust80@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 546,
+        "quantity": 2,
+        "gross_amount": 1092
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-04T15:43:15Z",
+    "transaction_id": "INV-20250704-081",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Wallet",
+    "gross_amount": 784,
+    "cgst": 39.2,
+    "sgst": 39.2,
+    "net_amount": 705.6,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST965",
+      "customer_name": "Customer 81",
+      "customer_contact_number": "9505140989",
+      "customer_email": "cust81@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 784,
+        "quantity": 1,
+        "gross_amount": 784
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-04T18:09:26Z",
+    "transaction_id": "INV-20250704-082",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Cash",
+    "gross_amount": 2030,
+    "cgst": 101.5,
+    "sgst": 101.5,
+    "net_amount": 1827.0,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST342",
+      "customer_name": "Customer 82",
+      "customer_contact_number": "9849983356",
+      "customer_email": "cust82@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 1015,
+        "quantity": 2,
+        "gross_amount": 2030
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-23T04:18:33Z",
+    "transaction_id": "INV-20250723-083",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Card",
+    "gross_amount": 3999,
+    "cgst": 199.95,
+    "sgst": 199.95,
+    "net_amount": 3599.1,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST826",
+      "customer_name": "Customer 83",
+      "customer_contact_number": "9756384101",
+      "customer_email": "cust83@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 328,
+        "quantity": 3,
+        "gross_amount": 984
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 1005,
+        "quantity": 3,
+        "gross_amount": 3015
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-16T00:30:35Z",
+    "transaction_id": "INV-20250716-084",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 5886,
+    "cgst": 294.3,
+    "sgst": 294.3,
+    "net_amount": 5297.4,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST991",
+      "customer_name": "Customer 84",
+      "customer_contact_number": "9165986960",
+      "customer_email": "cust84@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 756,
+        "quantity": 3,
+        "gross_amount": 2268
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 701,
+        "quantity": 3,
+        "gross_amount": 2103
+      },
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 505,
+        "quantity": 3,
+        "gross_amount": 1515
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-04T00:18:30Z",
+    "transaction_id": "INV-20250704-085",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Card",
+    "gross_amount": 3675,
+    "cgst": 183.75,
+    "sgst": 183.75,
+    "net_amount": 3307.5,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST339",
+      "customer_name": "Customer 85",
+      "customer_contact_number": "9621935864",
+      "customer_email": "cust85@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 735,
+        "quantity": 5,
+        "gross_amount": 3675
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-18T13:32:53Z",
+    "transaction_id": "INV-20250718-086",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Card",
+    "gross_amount": 4310,
+    "cgst": 215.5,
+    "sgst": 215.5,
+    "net_amount": 3879.0,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST954",
+      "customer_name": "Customer 86",
+      "customer_contact_number": "9005738010",
+      "customer_email": "cust86@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 1038,
+        "quantity": 1,
+        "gross_amount": 1038
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 874,
+        "quantity": 2,
+        "gross_amount": 1748
+      },
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 762,
+        "quantity": 2,
+        "gross_amount": 1524
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-22T06:43:57Z",
+    "transaction_id": "INV-20250722-087",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 9667,
+    "cgst": 483.35,
+    "sgst": 483.35,
+    "net_amount": 8700.3,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST550",
+      "customer_name": "Customer 87",
+      "customer_contact_number": "9060726808",
+      "customer_email": "cust87@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 914,
+        "quantity": 4,
+        "gross_amount": 3656
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 728,
+        "quantity": 4,
+        "gross_amount": 2912
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 1033,
+        "quantity": 3,
+        "gross_amount": 3099
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-16T00:08:29Z",
+    "transaction_id": "INV-20250716-088",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 6524,
+    "cgst": 326.2,
+    "sgst": 326.2,
+    "net_amount": 5871.6,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST566",
+      "customer_name": "Customer 88",
+      "customer_contact_number": "9150995334",
+      "customer_email": "cust88@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 604,
+        "quantity": 1,
+        "gross_amount": 604
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 560,
+        "quantity": 5,
+        "gross_amount": 2800
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 780,
+        "quantity": 4,
+        "gross_amount": 3120
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-12T20:48:54Z",
+    "transaction_id": "INV-20250712-089",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Card",
+    "gross_amount": 6045,
+    "cgst": 302.25,
+    "sgst": 302.25,
+    "net_amount": 5440.5,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST711",
+      "customer_name": "Customer 89",
+      "customer_contact_number": "9437274437",
+      "customer_email": "cust89@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 840,
+        "quantity": 5,
+        "gross_amount": 4200
+      },
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 615,
+        "quantity": 3,
+        "gross_amount": 1845
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-12T01:49:22Z",
+    "transaction_id": "INV-20250712-090",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Cash",
+    "gross_amount": 2703,
+    "cgst": 135.15,
+    "sgst": 135.15,
+    "net_amount": 2432.7,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST674",
+      "customer_name": "Customer 90",
+      "customer_contact_number": "9070526058",
+      "customer_email": "cust90@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 901,
+        "quantity": 3,
+        "gross_amount": 2703
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-09T08:24:59Z",
+    "transaction_id": "INV-20250709-091",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Wallet",
+    "gross_amount": 7289,
+    "cgst": 364.45,
+    "sgst": 364.45,
+    "net_amount": 6560.1,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST664",
+      "customer_name": "Customer 91",
+      "customer_contact_number": "9946959276",
+      "customer_email": "cust91@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 693,
+        "quantity": 3,
+        "gross_amount": 2079
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 1042,
+        "quantity": 5,
+        "gross_amount": 5210
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-15T07:15:39Z",
+    "transaction_id": "INV-20250715-092",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Card",
+    "gross_amount": 830,
+    "cgst": 41.5,
+    "sgst": 41.5,
+    "net_amount": 747.0,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST593",
+      "customer_name": "Customer 92",
+      "customer_contact_number": "9941190768",
+      "customer_email": "cust92@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 394,
+        "quantity": 1,
+        "gross_amount": 394
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 436,
+        "quantity": 1,
+        "gross_amount": 436
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-02T20:19:05Z",
+    "transaction_id": "INV-20250702-093",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Cash",
+    "gross_amount": 1300,
+    "cgst": 65.0,
+    "sgst": 65.0,
+    "net_amount": 1170.0,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST658",
+      "customer_name": "Customer 93",
+      "customer_contact_number": "9466396238",
+      "customer_email": "cust93@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 775,
+        "quantity": 1,
+        "gross_amount": 775
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 525,
+        "quantity": 1,
+        "gross_amount": 525
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-04T08:46:52Z",
+    "transaction_id": "INV-20250704-094",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "Wallet",
+    "gross_amount": 8728,
+    "cgst": 436.4,
+    "sgst": 436.4,
+    "net_amount": 7855.2,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST754",
+      "customer_name": "Customer 94",
+      "customer_contact_number": "9317348058",
+      "customer_email": "cust94@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 949,
+        "quantity": 5,
+        "gross_amount": 4745
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 722,
+        "quantity": 4,
+        "gross_amount": 2888
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 1095,
+        "quantity": 1,
+        "gross_amount": 1095
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-19T12:04:28Z",
+    "transaction_id": "INV-20250719-095",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "UPI",
+    "gross_amount": 13079,
+    "cgst": 653.95,
+    "sgst": 653.95,
+    "net_amount": 11771.1,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST833",
+      "customer_name": "Customer 95",
+      "customer_contact_number": "9616421528",
+      "customer_email": "cust95@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 1156,
+        "quantity": 5,
+        "gross_amount": 5780
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 1085,
+        "quantity": 5,
+        "gross_amount": 5425
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 937,
+        "quantity": 2,
+        "gross_amount": 1874
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-22T22:02:37Z",
+    "transaction_id": "INV-20250722-096",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "Wallet",
+    "gross_amount": 3990,
+    "cgst": 199.5,
+    "sgst": 199.5,
+    "net_amount": 3591.0,
+    "employee": {
+      "employee_id": "EMP102",
+      "employee_name": "Ritika Sharma",
+      "employee_role": "Manager",
+      "employee_hier_date": "2018-06-12"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST865",
+      "customer_name": "Customer 96",
+      "customer_contact_number": "9079192100",
+      "customer_email": "cust96@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 948,
+        "quantity": 3,
+        "gross_amount": 2844
+      },
+      {
+        "sku": "FABRIC-LINEN-GRN-STRP-SUM25",
+        "unit_price": 382,
+        "quantity": 3,
+        "gross_amount": 1146
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-24T00:56:58Z",
+    "transaction_id": "INV-20250724-097",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Wallet",
+    "gross_amount": 2686,
+    "cgst": 134.3,
+    "sgst": 134.3,
+    "net_amount": 2417.4,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST545",
+      "customer_name": "Customer 97",
+      "customer_contact_number": "9936161704",
+      "customer_email": "cust97@example.com",
+      "customer_gender": "Male"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 970,
+        "quantity": 1,
+        "gross_amount": 970
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 607,
+        "quantity": 2,
+        "gross_amount": 1214
+      },
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 502,
+        "quantity": 1,
+        "gross_amount": 502
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-12T11:23:27Z",
+    "transaction_id": "INV-20250712-098",
+    "store_id": "STR001",
+    "pos_id": "POS001",
+    "payment_method": "UPI",
+    "gross_amount": 4589,
+    "cgst": 229.45,
+    "sgst": 229.45,
+    "net_amount": 4130.1,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Urban Threads",
+      "store_location": "DLH9876543",
+      "store_id": "STR001"
+    },
+    "customer": {
+      "customer_id": "CUST719",
+      "customer_name": "Customer 98",
+      "customer_contact_number": "9139814007",
+      "customer_email": "cust98@example.com",
+      "customer_gender": "Other"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 404,
+        "quantity": 5,
+        "gross_amount": 2020
+      },
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 818,
+        "quantity": 2,
+        "gross_amount": 1636
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 933,
+        "quantity": 1,
+        "gross_amount": 933
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-07T02:19:27Z",
+    "transaction_id": "INV-20250707-099",
+    "store_id": "STR003",
+    "pos_id": "POS003",
+    "payment_method": "Cash",
+    "gross_amount": 5365,
+    "cgst": 268.25,
+    "sgst": 268.25,
+    "net_amount": 4828.5,
+    "employee": {
+      "employee_id": "EMP103",
+      "employee_name": "Amit Joshi",
+      "employee_role": "Sales Associate",
+      "employee_hier_date": "2019-11-05"
+    },
+    "store": {
+      "store_name": "Fashion Hub",
+      "store_location": "BLR7654321",
+      "store_id": "STR003"
+    },
+    "customer": {
+      "customer_id": "CUST952",
+      "customer_name": "Customer 99",
+      "customer_contact_number": "9060325070",
+      "customer_email": "cust99@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-COTTON-BLU-PRNT-SS24",
+        "unit_price": 1057,
+        "quantity": 3,
+        "gross_amount": 3171
+      },
+      {
+        "sku": "FABRIC-DENIM-BLK-RAW-URB24",
+        "unit_price": 1097,
+        "quantity": 2,
+        "gross_amount": 2194
+      }
+    ]
+  },
+  {
+    "transaction_timestamp": "2025-07-20T19:53:27Z",
+    "transaction_id": "INV-20250720-100",
+    "store_id": "STR002",
+    "pos_id": "POS002",
+    "payment_method": "UPI",
+    "gross_amount": 3965,
+    "cgst": 198.25,
+    "sgst": 198.25,
+    "net_amount": 3568.5,
+    "employee": {
+      "employee_id": "EMP101",
+      "employee_name": "Ravi Kumar",
+      "employee_role": "Cashier",
+      "employee_hier_date": "2017-03-15"
+    },
+    "store": {
+      "store_name": "Style Junction",
+      "store_location": "MUM1234567",
+      "store_id": "STR002"
+    },
+    "customer": {
+      "customer_id": "CUST956",
+      "customer_name": "Customer 100",
+      "customer_contact_number": "9392639248",
+      "customer_email": "cust100@example.com",
+      "customer_gender": "Female"
+    },
+    "products": [
+      {
+        "sku": "FABRIC-SILK-RED-EMB-FEST25",
+        "unit_price": 1145,
+        "quantity": 2,
+        "gross_amount": 2290
+      },
+      {
+        "sku": "FABRIC-WOOL-GRY-CHK-WIN25",
+        "unit_price": 335,
+        "quantity": 5,
+        "gross_amount": 1675
+      }
+    ]
+  }
+]
